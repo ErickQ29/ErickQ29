@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Erick%20Quiroz&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20Cybersecurity%20%7C%20Linux%20Enthusiast&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Erick%20Quiroz&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20Cybersecurity%20Student%20%7C%20Linux%20Enthusiast&descAlignY=55&descSize=18)
 
 </div>
 
@@ -16,21 +16,30 @@
 <tr>
 <td width="50%">
 
-Soy un **Data Scientist** apasionado por desentrañar los secretos ocultos en los datos. Mi mundo gira en torno a la programación, la ciberseguridad y la elegancia de los sistemas Linux. Me fascina la intersección entre la ciencia de datos y la seguridad informática, creando soluciones que no solo analizan, sino que también protegen.
+Soy un **estudiante de ciberseguridad** de tercer año (graduación 2027) con una pasión profunda por la **ciencia de datos**. Combino el pensamiento analítico con la expertise en ciberseguridad para resolver problemas complejos y descubrir verdades objetivas en los datos.
 
-Mi filosofía es simple: *"Los datos cuentan historias, el código las hace realidad, y la seguridad las protege."*
+Mi filosofía es simple: *"La seguridad no es un producto, sino un proceso. Los datos no son solo números, son historias esperando ser contadas."*
+
+Actualmente curso una licenciatura en **Ciberseguridad** desde el instituto, lo que me ha dado una base sólida en informática y me ha permitido desarrollar expertise técnica tanto en análisis de datos como en seguridad digital.
 
 </td>
 <td width="50%">
 
 ```python
-class DataScientist:
+class CybersecurityStudent:
     def __init__(self):
-        self.name = "Erick Quiroz"
-        self.role = "Data Scientist"
+        self.name = "Erick Alberto Quiroz Knight"
+        self.role = "Data Scientist & Cybersecurity Student"
+        self.graduation_year = 2027
+        self.location = "Panama, Panama"
         self.languages = ["Python", "R", "Julia", "Shell"]
-        self.os = ["Arch", "Fedora", "NixOS"]
+        self.os = ["Arch", "Fedora", "NixOS", "Parrot OS"]
+        self.english_level = "C1"
         self.passion = ["Data Science", "Cybersecurity", "Linux"]
+    
+    def current_focus(self):
+        return ["Predictive Modeling", "Data Visualization", 
+                "Digital Forensics", "Mental Health Data Analysis"]
     
     def say_hi(self):
         return "¡Hola! Transformemos datos juntos 🚀"
@@ -42,13 +51,50 @@ class DataScientist:
 
 ---
 
+## 🎓 **Trayectoria Académica**
+
 <div align="center">
 
-## 🛠️ **Arsenal Tecnológico**
+<table>
+<tr>
+<td align="center" width="25%">
+<h3>🎯 Año Actual</h3>
+<h2 style="color: #00D9FF;">3er Año</h2>
+<p>Licenciatura en Ciberseguridad</p>
+</td>
+<td align="center" width="25%">
+<h3>🎓 Graduación</h3>
+<h2 style="color: #00D9FF;">2027</h2>
+<p>Fecha esperada de graduación</p>
+</td>
+<td align="center" width="25%">
+<h3>💻 Lenguajes</h3>
+<h2 style="color: #00D9FF;">3+</h2>
+<p>Lenguajes de programación</p>
+</td>
+<td align="center" width="25%">
+<h3>🌐 Inglés</h3>
+<h2 style="color: #00D9FF;">C1</h2>
+<p>Nivel de inglés avanzado</p>
+</td>
+</tr>
+</table>
 
 </div>
 
-### **Lenguajes de Programación**
+**Enfoque Académico:** Mi formación en ciberseguridad desde el instituto me ha proporcionado una perspectiva única que combina la seguridad digital con el análisis de datos. Creo en lograr la verdad objetiva a través del análisis riguroso de datos y enfoques basados en evidencia.
+
+**Mentalidad de Aprendizaje:** ∞ - Siempre en constante aprendizaje y adaptación a nuevas tecnologías y metodologías.
+
+---
+
+<div align="center">
+
+## 🛠️ **Arsenal Tecnológico Completo**
+
+</div>
+
+### **💻 Lenguajes de Programación**
 
 <div align="center">
 
@@ -59,24 +105,87 @@ class DataScientist:
 
 </div>
 
-### **Sistemas Operativos**
+**Especialización por Lenguaje:**
+- **Python**: Análisis de datos, ML, automatización, desarrollo de herramientas de ciberseguridad
+- **R**: Computación estadística, visualización avanzada, análisis de datos biomédicos
+- **Julia**: Computación de alto rendimiento, modelado matemático complejo
+- **Shell**: Automatización de sistemas, scripting, administración Linux
+
+### **📊 Ecosistema de Data Science**
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1a1a1a" alt="Pandas">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1a1a1a" alt="NumPy">
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=1a1a1a" alt="Scikit-learn">
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a" alt="Matplotlib">
+
+</div>
+
+**Herramientas Especializadas:**
+- **Pandas**: Manipulación y análisis de datos estructurados
+- **NumPy**: Computación numérica y operaciones matriciales
+- **Scikit-learn**: Implementación de algoritmos de machine learning
+- **Análisis y Visualización**: Creación de insights a partir de datos complejos
+- **Modelado Estadístico**: Desarrollo de modelos predictivos
+
+### **🔐 Herramientas de Ciberseguridad**
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white&labelColor=1a1a1a" alt="Nmap">
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=1a1a1a" alt="Wireshark">
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=1a1a1a" alt="Kali Linux">
+<img src="https://img.shields.io/badge/Digital%20Forensics-DC143C?style=for-the-badge&logo=security&logoColor=white&labelColor=1a1a1a" alt="Digital Forensics">
+
+</div>
+
+**Especialización en Seguridad:**
+- **Nmap**: Escaneo de redes y descubrimiento de servicios
+- **Wireshark**: Análisis de protocolos de red y tráfico
+- **Herramientas de Penetration Testing**: Evaluación de vulnerabilidades
+- **Forense Digital**: Análisis de evidencias digitales y recuperación de datos
+
+### **🗄️ Bases de Datos y Nube**
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a1a" alt="SQL">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=1a1a1a" alt="AWS">
+<img src="https://img.shields.io/badge/Database%20Management-336791?style=for-the-badge&logo=database&logoColor=white&labelColor=1a1a1a" alt="Database Management">
+
+</div>
+
+**Gestión de Datos:**
+- **Bases de Datos Relacionales (SQL)**: Diseño, optimización y consultas complejas
+- **Gestión de Bases de Datos**: Administración y mantenimiento de sistemas de datos
+- **Arquitectura AWS**: Implementación de soluciones en la nube
+
+### **🐧 Sistemas Operativos**
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=1a1a1a" alt="Arch Linux">
 <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white&labelColor=1a1a1a" alt="Fedora">
 <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white&labelColor=1a1a1a" alt="NixOS">
+<img src="https://img.shields.io/badge/Parrot%20OS-087EC7?style=for-the-badge&logo=parrot&logoColor=white&labelColor=1a1a1a" alt="Parrot OS">
 
 </div>
 
-### **Áreas de Especialización**
+**Especialización por Sistema:**
+- **Arch Linux**: Configuración personalizada y optimización del sistema
+- **Fedora**: Desarrollo y testing de aplicaciones
+- **NixOS**: Gestión declarativa de configuraciones
+- **Parrot OS**: Herramientas especializadas en ciberseguridad
+
+### **💬 Habilidades Lingüísticas y Blandas**
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Data%20Science-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white&labelColor=1a1a1a" alt="Data Science">
-<img src="https://img.shields.io/badge/Cybersecurity-4ECDC4?style=for-the-badge&logo=security&logoColor=white&labelColor=1a1a1a" alt="Cybersecurity">
-<img src="https://img.shields.io/badge/Machine%20Learning-45B7D1?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a1a1a" alt="Machine Learning">
-<img src="https://img.shields.io/badge/Linux%20Admin-96CEB4?style=for-the-badge&logo=linux&logoColor=white&labelColor=1a1a1a" alt="Linux Admin">
+<img src="https://img.shields.io/badge/Español-Nativo-FF6B6B?style=for-the-badge&labelColor=1a1a1a" alt="Español">
+<img src="https://img.shields.io/badge/Inglés-C1-4ECDC4?style=for-the-badge&labelColor=1a1a1a" alt="Inglés">
+<img src="https://img.shields.io/badge/Comunicación%20Técnica-45B7D1?style=for-the-badge&labelColor=1a1a1a" alt="Comunicación Técnica">
+<img src="https://img.shields.io/badge/Pensamiento%20Analítico-96CEB4?style=for-the-badge&labelColor=1a1a1a" alt="Pensamiento Analítico">
 
 </div>
 
@@ -100,9 +209,10 @@ class DataScientist:
 Un elegante juego de adivinanzas desarrollado en Shell que demuestra la potencia de los scripts Unix. Implementa lógica de programación limpia y interacciones fluidas con el usuario.
 
 **Características:**
-- Lógica de juego robusta
+- Lógica de juego robusta con validación de entrada
 - Interfaz de línea de comandos intuitiva
-- Algoritmos de generación aleatoria
+- Algoritmos de generación aleatoria seguros
+- Manejo de errores y casos edge
 
 </td>
 <td width="50%">
@@ -110,12 +220,13 @@ Un elegante juego de adivinanzas desarrollado en Shell que demuestra la potencia
 ### 🗂️ [Parcial de I.A](https://github.com/ErickQ29/Parcial-de-I.A)
 <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></span>
 
-Proyecto académico que explora los fundamentos de la inteligencia artificial. Implementa algoritmos de aprendizaje automático y técnicas de procesamiento de datos.
+Proyecto académico que explora los fundamentos de la inteligencia artificial aplicada a problemas reales. Implementa algoritmos de aprendizaje automático y técnicas avanzadas de procesamiento de datos.
 
 **Características:**
-- Implementación de algoritmos de ML
-- Análisis de datos avanzado
-- Visualizaciones interactivas
+- Implementación de algoritmos de ML desde cero
+- Análisis de datos biomédicos y de salud mental
+- Visualizaciones interactivas con librerías especializadas
+- Documentación técnica completa
 
 </td>
 </tr>
@@ -125,12 +236,13 @@ Proyecto académico que explora los fundamentos de la inteligencia artificial. I
 ### 🌐 [Efecto Matrix](https://github.com/ErickQ29/efecto-matrix)
 <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></span>
 
-Una recreación hipnotizante del icónico efecto Matrix. Combina programación creativa con arte digital para crear una experiencia visual inmersiva.
+Una recreación hipnotizante del icónico efecto Matrix que demuestra habilidades en programación creativa. Combina arte digital con optimización de rendimiento para crear una experiencia visual inmersiva.
 
 **Características:**
-- Animaciones fluidas en tiempo real
-- Optimización de rendimiento
-- Diseño responsive
+- Animaciones fluidas en tiempo real a 60fps
+- Algoritmos de optimización de renderizado
+- Diseño responsive y adaptativo
+- Efectos visuales procedurales
 
 </td>
 <td width="50%">
@@ -138,12 +250,59 @@ Una recreación hipnotizante del icónico efecto Matrix. Combina programación c
 ### 💼 [Portfolio Web](https://github.com/ErickQ29/erickquiroz.github.io)
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"></span>
 
-Mi portfolio personal que muestra mi trayectoria profesional. Desarrollado con tecnologías web modernas y enfoque en la experiencia del usuario.
+Mi portfolio personal profesional que presenta mi trayectoria académica y proyectos. Desarrollado con tecnologías web modernas y enfoque en experiencia del usuario y accesibilidad.
 
 **Características:**
-- Diseño responsivo y moderno
-- Optimización SEO
-- Integración con GitHub Pages
+- Diseño responsive con CSS Grid y Flexbox
+- Optimización SEO y rendimiento web
+- Integración perfecta con GitHub Pages
+- Interfaz intuitiva y profesional
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🌱 **Áreas de Especialización Actuales**
+
+</div>
+
+<table>
+<tr>
+<td width="33%">
+
+### 🧠 **Modelado Predictivo**
+- Desarrollo de modelos de machine learning
+- Análisis de series temporales
+- Procesamiento de lenguaje natural
+- Optimización de hiperparámetros
+
+**Enfoque Actual:** Aplicación de técnicas de ML en análisis de datos de salud mental y comportamiento digital.
+
+</td>
+<td width="33%">
+
+### 🔍 **Forense Digital**
+- Análisis de evidencias digitales
+- Recuperación de datos eliminados
+- Investigación de incidentes de seguridad
+- Análisis de malware y vulnerabilidades
+
+**Enfoque Actual:** Desarrollo de herramientas automatizadas para análisis forense y detección de amenazas.
+
+</td>
+<td width="33%">
+
+### 📊 **Visualización de Datos**
+- Creación de dashboards interactivos
+- Storytelling con datos
+- Análisis exploratorio de datos
+- Comunicación de insights técnicos
+
+**Enfoque Actual:** Visualización de patrones de seguridad y análisis de comportamiento de usuarios.
 
 </td>
 </tr>
@@ -174,41 +333,19 @@ Mi portfolio personal que muestra mi trayectoria profesional. Desarrollado con t
 
 <div align="center">
 
-## 🌱 **Actualmente Explorando**
+## 🎯 **Objetivos de Investigación**
 
 </div>
 
-<table>
-<tr>
-<td width="33%">
+Mi trabajo se enfoca en la intersección entre la **ciencia de datos** y la **ciberseguridad**, con particular interés en:
 
-### 🤖 **Machine Learning Avanzado**
-- Redes neuronales profundas
-- Procesamiento de lenguaje natural
-- Computer vision
-- AutoML y MLOps
+**Áreas de Investigación Principal:**
+- **Análisis de Datos de Salud Mental**: Utilización de técnicas de ML para identificar patrones en datos de salud mental y desarrollar herramientas predictivas que contribuyan a soluciones de impacto social.
+- **Seguridad Basada en Datos**: Desarrollo de sistemas de detección de amenazas utilizando análisis predictivo y técnicas de aprendizaje automático.
+- **Forense Digital Automatizado**: Creación de herramientas que automaticen el proceso de análisis forense para mejorar la eficiencia en investigaciones de ciberseguridad.
 
-</td>
-<td width="33%">
-
-### 🔐 **Cybersecurity**
-- Pentesting y ethical hacking
-- Análisis de vulnerabilidades
-- Forense digital
-- Seguridad en contenedores
-
-</td>
-<td width="33%">
-
-### ⚡ **Optimización de Sistemas**
-- Configuraciones avanzadas en NixOS
-- Optimización de rendimiento en Julia
-- Automatización con Ansible
-- Contenedores y orquestación
-
-</td>
-</tr>
-</table>
+**Metodología de Trabajo:**
+Creo firmemente en alcanzar la verdad objetiva a través del análisis riguroso de datos y enfoques basados en evidencia. Mi formación en ciberseguridad me proporciona una perspectiva única sobre la importancia de la integridad de los datos y la seguridad en todo el pipeline de análisis.
 
 ---
 
@@ -229,7 +366,7 @@ Mi portfolio personal que muestra mi trayectoria profesional. Desarrollado con t
 ## 💭 **Filosofía de Trabajo**
 
 <div style="pointer-events: none;">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=La%20seguridad%20no%20es%20un%20producto,%20sino%20un%20proceso.%20Los%20datos%20no%20son%20solo%20números,%20son%20historias%20esperando%20ser%20contadas.&author=Erick%20Quiroz" width="100%" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=La%20seguridad%20no%20es%20un%20producto,%20sino%20un%20proceso.%20Los%20datos%20no%20son%20solo%20números,%20son%20historias%20esperando%20ser%20contadas.&author=Erick%20Alberto%20Quiroz%20Knight" width="100%" />
 </div>
 
 </div>
@@ -238,8 +375,15 @@ Mi portfolio personal que muestra mi trayectoria profesional. Desarrollado con t
 
 <div align="center">
 
-### ⭐ **¿Te interesa colaborar?**
-No dudes en contactarme para proyectos de **data science**, **ciberseguridad** o cualquier desafío técnico interesante.
+### ⭐ **¿Interesado en Colaborar?**
+
+Estoy siempre abierto a colaboraciones en proyectos que involucren:
+- **Análisis de datos** con enfoque en ciberseguridad
+- **Desarrollo de herramientas** para forense digital
+- **Investigación** en machine learning aplicado a seguridad
+- **Proyectos académicos** relacionados con data science
+
+No dudes en contactarme para discutir ideas, proyectos de investigación, o cualquier desafío técnico interesante que combine datos y seguridad.
 
 <div style="pointer-events: none;">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn">
@@ -251,7 +395,7 @@ No dudes en contactarme para proyectos de **data science**, **ciberseguridad** o
 
 <div align="center">
 
-*🐧 Construido con ❤️ en Linux • 🚀 Powered by Open Source*
+*🐧 Construido con ❤️ en Linux • 🚀 Powered by Open Source • 🔐 Secured by Design*
 
 <span><img src="https://komarev.com/ghpvc/?username=ErickQ29&color=00D9FF&style=flat-square&label=Visitas+al+perfil" alt="Profile Views"></span>
 
