@@ -52,10 +52,10 @@ class DataScientist:
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&labelColor=1a1a1a)
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white&labelColor=1a1a1a)
-![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=1a1a1a)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a" alt="Python">
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&labelColor=1a1a1a" alt="R">
+<img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white&labelColor=1a1a1a" alt="Julia">
+<img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=1a1a1a" alt="Shell">
 
 </div>
 
@@ -63,9 +63,9 @@ class DataScientist:
 
 <div align="center">
 
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=1a1a1a)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white&labelColor=1a1a1a)
-![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white&labelColor=1a1a1a)
+<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=1a1a1a" alt="Arch Linux">
+<img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white&labelColor=1a1a1a" alt="Fedora">
+<img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white&labelColor=1a1a1a" alt="NixOS">
 
 </div>
 
@@ -73,10 +73,10 @@ class DataScientist:
 
 <div align="center">
 
-![Data Science](https://img.shields.io/badge/Data%20Science-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white&labelColor=1a1a1a)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-4ECDC4?style=for-the-badge&logo=security&logoColor=white&labelColor=1a1a1a)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-45B7D1?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a1a1a)
-![Linux Admin](https://img.shields.io/badge/Linux%20Admin-96CEB4?style=for-the-badge&logo=linux&logoColor=white&labelColor=1a1a1a)
+<img src="https://img.shields.io/badge/Data%20Science-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white&labelColor=1a1a1a" alt="Data Science">
+<img src="https://img.shields.io/badge/Cybersecurity-4ECDC4?style=for-the-badge&logo=security&logoColor=white&labelColor=1a1a1a" alt="Cybersecurity">
+<img src="https://img.shields.io/badge/Machine%20Learning-45B7D1?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a1a1a" alt="Machine Learning">
+<img src="https://img.shields.io/badge/Linux%20Admin-96CEB4?style=for-the-badge&logo=linux&logoColor=white&labelColor=1a1a1a" alt="Linux Admin">
 
 </div>
 
@@ -95,7 +95,7 @@ class DataScientist:
 <td width="50%">
 
 ### 🎮 [Guessing Game](https://github.com/ErickQ29/guessing-game)
-![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+<span><img src="https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell"></span>
 
 Un elegante juego de adivinanzas desarrollado en Shell que demuestra la potencia de los scripts Unix. Implementa lógica de programación limpia y interacciones fluidas con el usuario.
 
@@ -108,7 +108,7 @@ Un elegante juego de adivinanzas desarrollado en Shell que demuestra la potencia
 <td width="50%">
 
 ### 🗂️ [Parcial de I.A](https://github.com/ErickQ29/Parcial-de-I.A)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<span><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></span>
 
 Proyecto académico que explora los fundamentos de la inteligencia artificial. Implementa algoritmos de aprendizaje automático y técnicas de procesamiento de datos.
 
@@ -123,7 +123,7 @@ Proyecto académico que explora los fundamentos de la inteligencia artificial. I
 <td width="50%">
 
 ### 🌐 [Efecto Matrix](https://github.com/ErickQ29/efecto-matrix)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></span>
 
 Una recreación hipnotizante del icónico efecto Matrix. Combina programación creativa con arte digital para crear una experiencia visual inmersiva.
 
@@ -136,7 +136,7 @@ Una recreación hipnotizante del icónico efecto Matrix. Combina programación c
 <td width="50%">
 
 ### 💼 [Portfolio Web](https://github.com/ErickQ29/erickquiroz.github.io)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+<span><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"></span>
 
 Mi portfolio personal que muestra mi trayectoria profesional. Desarrollado con tecnologías web modernas y enfoque en la experiencia del usuario.
 
@@ -155,14 +155,18 @@ Mi portfolio personal que muestra mi trayectoria profesional. Desarrollado con t
 
 ## 📊 **Estadísticas de GitHub**
 
+<div style="pointer-events: none;">
 <img src="https://github-readme-stats.vercel.app/api?username=ErickQ29&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErickQ29&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=ffffff" width="48%" />
+</div>
 
 </div>
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickQ29&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8)
+<div style="pointer-events: none;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickQ29&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8" alt="Top Languages" />
+</div>
 
 </div>
 
@@ -224,7 +228,9 @@ Mi portfolio personal que muestra mi trayectoria profesional. Desarrollado con t
 
 ## 💭 **Filosofía de Trabajo**
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=La%20seguridad%20no%20es%20un%20producto,%20sino%20un%20proceso.%20Los%20datos%20no%20son%20solo%20números,%20son%20historias%20esperando%20ser%20contadas.&author=Erick%20Quiroz" width="100%">
+<div style="pointer-events: none;">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=La%20seguridad%20no%20es%20un%20producto,%20sino%20un%20proceso.%20Los%20datos%20no%20son%20solo%20números,%20son%20historias%20esperando%20ser%20contadas.&author=Erick%20Quiroz" width="100%" />
+</div>
 
 </div>
 
@@ -235,7 +241,9 @@ Mi portfolio personal que muestra mi trayectoria profesional. Desarrollado con t
 ### ⭐ **¿Te interesa colaborar?**
 No dudes en contactarme para proyectos de **data science**, **ciberseguridad** o cualquier desafío técnico interesante.
 
+<div style="pointer-events: none;">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn">
+</div>
 
 </div>
 
@@ -245,6 +253,6 @@ No dudes en contactarme para proyectos de **data science**, **ciberseguridad** o
 
 *🐧 Construido con ❤️ en Linux • 🚀 Powered by Open Source*
 
-![Profile Views](https://komarev.com/ghpvc/?username=ErickQ29&color=00D9FF&style=flat-square&label=Visitas+al+perfil)
+<span><img src="https://komarev.com/ghpvc/?username=ErickQ29&color=00D9FF&style=flat-square&label=Visitas+al+perfil" alt="Profile Views"></span>
 
 </div>
