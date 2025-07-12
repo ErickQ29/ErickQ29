@@ -20,7 +20,7 @@ Soy un **estudiante de ciberseguridad** de tercer año (graduación 2027) con un
 
 Mi filosofía es simple: *"La seguridad no es un producto, sino un proceso. Los datos no son solo números, son historias esperando ser contadas."*
 
-Actualmente curso una licenciatura en **Ciberseguridad** desde el instituto, lo que me ha dado una base sólida en informática y me ha permitido desarrollar expertise técnica tanto en análisis de datos como en seguridad digital.
+Actualmente curso una licenciatura en **Ciberseguridad**, lo que me ha dado una base sólida en informática y me ha permitido desarrollar expertise técnica tanto en análisis de datos como en seguridad digital.
 
 </td>
 <td width="50%">
@@ -35,7 +35,7 @@ class CybersecurityStudent:
         self.languages = ["Python", "R", "Julia", "Shell"]
         self.os = ["Arch", "Fedora", "NixOS", "Parrot OS"]
         self.english_level = "C1"
-        self.passion = ["Data Science", "Cybersecurity", "Linux"]
+        self.passion = ["Data Science", "Cybersecurity", "Software Developer"]
     
     def current_focus(self):
         return ["Predictive Modeling", "Data Visualization", 
