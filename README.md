@@ -1,67 +1,55 @@
-<div align="center">
-  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2cyemRlbmx0d2RwYzc2enp0cjg5aG1kb2duM3A2YjN4ejU4MTV4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VPo7gdnsl4W9q9aOgP/giphy.gif"  />
-</div>
+# Hi there, I'm Erick 👋 
 
-###
+### 🧪 Data Scientist | Computational Physics Researcher | Julia Enthusiast
 
-<div align="center">
-  <a href="www.linkedin.com/in/erick-quiroz-492189347" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+Soy un apasionado de la **investigación científica** y la **ciencia de datos**, enfocado en la modelación de sistemas complejos y fenómenos astrofísicos. Mi enfoque combina el rigor matemático con herramientas de computación de alto rendimiento para extraer conocimiento de sistemas dinámicos y caóticos.
 
-###
+- 🍵 **Fun fact:** Gran entusiasta del matcha latte caliente.
+- 🚀 **Enfoque actual:** Simulaciones astrofísicas y teoría del caos utilizando Julia.
+- 🧠 **Intereses:** Deep Learning, Física Computacional, Criptografía Cuántica (BB84) y Optimización de Sistemas.
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ErickQ29.ErickQ29&"  />
-</div>
+---
 
-###
+### 🛠️ My Research & Data Toolbox
 
-<h1 align="center">Hello everyone👋</h1>
+| Área | Herramientas |
+| :--- | :--- |
+| **Lenguajes** | ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Nix](https://img.shields.io/badge/-NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white) |
+| **Data Science** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Plots.jl](https://img.shields.io/badge/-Plots.jl-9558B2?style=flat-square) |
+| **Research** | ![Chaos Theory](https://img.shields.io/badge/-Chaos%20Theory-black?style=flat-square) ![Astrophysics](https://img.shields.io/badge/-Astrophysics-blue?style=flat-square) ![Quantum](https://img.shields.io/badge/-Quantum%20BB84-green?style=flat-square) |
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+### 🔬 Featured Research Projects
 
-###
+#### [Clifford-Singularity](https://github.com/ErickQ29/Clifford-Singularity)
+Simulación visual de la dinámica de un agujero negro supermasivo. 
+* **Highlight:** Implementación del Teorema del Atractor de Clifford aplicado a la física de discos de acreción.
+* **Tech:** Julia, Keplerian decay logic, High-performance rendering.
 
-<p align="left">Based in Panama, I am an aspiring Professional Researcher dedicated to mastering the intersection of the scientific method and computational excellence. My current technical focus involves rigorous data analysis and simulation using R and Julia. Beyond my research interests, I am a dedicated Unix-enthusiast; I spend my leisure time 'ricing' and optimising various environments, including NixOS, Arch, and FreeBSD, to create the ultimate reproducible workflow.</p>
+#### [Explaining Lorenz Attractor](https://github.com/ErickQ29/Explaining-Lorenz-Attractor-)
+Una exploración numérica del caos determinista y el efecto mariposa.
+* **Highlight:** Integración numérica de ecuaciones diferenciales no lineales para visualizar trayectorias en espacios de fase.
+* **Tech:** Julia, Forward Euler Method, Nonlinear Dynamics.
 
-###
+#### [Explicando-BB84](https://github.com/ErickQ29/Explicando-BB84)
+Implementación y explicación del protocolo de distribución de claves cuánticas BB84.
+* **Highlight:** Foco en la intersección entre seguridad de la información y mecánica cuántica.
 
-<h3 align="left">🛠 Language and tools</h3>
+---
 
-###
+### 📈 GitHub Stats & Activity
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" height="40" alt="datagrip logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="40" alt="julia logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="40" alt="nixos logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-</div>
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErickQ29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickQ29&layout=compact&theme=tokyonight&langs_count=6" />
+</p>
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+### 📫 Connect with me
+¿Interesado en colaborar en proyectos de Data Science o simulaciones físicas? 
+- **GitHub:** @ErickQ29
+- **Focus:** Data/Scientist
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ErickQ29&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+*"The orbit alternates irregularly between two symmetric lobes, never intersecting itself... a hallmark of deterministic chaos."*
