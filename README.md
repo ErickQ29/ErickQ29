@@ -12,7 +12,6 @@ Soy un apasionado de la **investigación científica** y la **ciencia de datos**
 - 🚀 **Enfoque actual:** Simulaciones astrofísicas y teoría del caos utilizando Julia.
 - 🧠 **Intereses:** Deep Learning, Física Computacional, Criptografía Cuántica (BB84) y Optimización de Sistemas.
 
----
 
 ### 🛠️ My Research & Data Toolbox
 
@@ -22,7 +21,6 @@ Soy un apasionado de la **investigación científica** y la **ciencia de datos**
 | **Data Science** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Plots.jl](https://img.shields.io/badge/-Plots.jl-9558B2?style=flat-square) |
 | **Research** | ![Chaos Theory](https://img.shields.io/badge/-Chaos%20Theory-black?style=flat-square) ![Astrophysics](https://img.shields.io/badge/-Astrophysics-blue?style=flat-square) ![Quantum](https://img.shields.io/badge/-Quantum%20BB84-green?style=flat-square) |
 
----
 
 ### 🔬 Featured Research Projects
 
@@ -40,16 +38,6 @@ Una exploración numérica del caos determinista y el efecto mariposa.
 Implementación y explicación del protocolo de distribución de claves cuánticas BB84.
 * **Highlight:** Foco en la intersección entre seguridad de la información y mecánica cuántica.
 
----
-
-### 📈 GitHub Stats & Activity
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErickQ29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickQ29&layout=compact&theme=tokyonight&langs_count=6" />
-</p>
-
----
 
 ### 📫 Connect with me
 ¿Interesado en colaborar en proyectos de Data Science o simulaciones físicas? 
