@@ -1,47 +1,47 @@
 # Hi there, I'm Erick 👋 
 
-<p align="center">
+<p align="centre">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2cyemRlbmx0d2RwYzc2enp0cjg5aG1kb2duM3A2YjN4ejU4MTV4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VPo7gdnsl4W9q9aOgP/giphy.gif" width="400px" alt="Researching Vibes">
 </p>
 
-### 🧪 Data Scientist | Computational Physics Researcher | Julia Enthusiast
+### 🧠 Medical Researcher | Data Scientist | MRI Specialist
 
-Soy un apasionado de la **investigación científica** y la **ciencia de datos**, enfocado en la modelación de sistemas complejos y fenómenos astrofísicos. Mi enfoque combina el rigor matemático con herramientas de computación de alto rendimiento para extraer conocimiento de sistemas dinámicos y caóticos.
+I am engaged in **medical research** and **data science**, with a particular emphasis on the analysis of medical imaging and the study of complex biological systems. My work combines rigorous analytical frameworks with advanced computational methodologies to derive clinically meaningful insights from high-dimensional data.
 
-- 🍵 **Fun fact:** Gran entusiasta del matcha latte caliente.
-- 🚀 **Enfoque actual:** Simulaciones astrofísicas y teoría del caos utilizando Julia.
-- 🧠 **Intereses:** Deep Learning, Física Computacional, Criptografía Cuántica (BB84) y Optimización de Sistemas.
+- 🍵 **Fun fact:** A devoted enthusiast of hot matcha latte.
+- 🧪 **Current focus:** Magnetic Resonance Imaging (MRI) analysis and machine learning applications in healthcare.
+- 🧠 **Interests:** Deep Learning, Medical Imaging, Computational Neuroscience, and Biomedical Signal Processing.
 
 
 ### 🛠️ My Research & Data Toolbox
 
-| Área | Herramientas |
+| Area | Tools |
 | :--- | :--- |
-| **Lenguajes** | ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Nix](https://img.shields.io/badge/-NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white) |
+| **Languages** | ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Nix](https://img.shields.io/badge/-NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white) |
 | **Data Science** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Plots.jl](https://img.shields.io/badge/-Plots.jl-9558B2?style=flat-square) |
-| **Research** | ![Chaos Theory](https://img.shields.io/badge/-Chaos%20Theory-black?style=flat-square) ![Astrophysics](https://img.shields.io/badge/-Astrophysics-blue?style=flat-square) ![Quantum](https://img.shields.io/badge/-Quantum%20BB84-green?style=flat-square) |
+| **Medical Research** | ![MRI](https://img.shields.io/badge/-MRI-black?style=flat-square) ![Medical Imaging](https://img.shields.io/badge/-Medical%20Imaging-blue?style=flat-square) ![Neuroscience](https://img.shields.io/badge/-Neuroscience-green?style=flat-square) |
 
 
 ### 🔬 Featured Research Projects
 
 #### [Clifford-Singularity](https://github.com/ErickQ29/Clifford-Singularity)
-Simulación visual de la dinámica de un agujero negro supermasivo. 
-* **Highlight:** Implementación del Teorema del Atractor de Clifford aplicado a la física de discos de acreción.
-* **Tech:** Julia, Keplerian decay logic, High-performance rendering.
+Visual simulation of the dynamics of a supermassive black hole.  
+* **Highlight:** Implementation of the Clifford Attractor Theorem applied to accretion disc dynamics.  
+* **Tech:** Julia, Keplerian decay logic, high-performance rendering.
 
 #### [Explaining Lorenz Attractor](https://github.com/ErickQ29/Explaining-Lorenz-Attractor-)
-Una exploración numérica del caos determinista y el efecto mariposa.
-* **Highlight:** Integración numérica de ecuaciones diferenciales no lineales para visualizar trayectorias en espacios de fase.
-* **Tech:** Julia, Forward Euler Method, Nonlinear Dynamics.
+A numerical exploration of deterministic chaos and the butterfly effect.  
+* **Highlight:** Numerical integration of non-linear differential equations to visualise trajectories in phase space.  
+* **Tech:** Julia, Forward Euler method, nonlinear dynamics.
 
 #### [Explicando-BB84](https://github.com/ErickQ29/Explicando-BB84)
-Implementación y explicación del protocolo de distribución de claves cuánticas BB84.
-* **Highlight:** Foco en la intersección entre seguridad de la información y mecánica cuántica.
+Implementation and explanation of the BB84 quantum key distribution protocol.  
+* **Highlight:** Focus on the intersection between information security and quantum mechanics.  
 
 
 ### 📫 Connect with me
-¿Interesado en colaborar en proyectos de Data Science o simulaciones físicas? 
-- **GitHub:** @ErickQ29
-- **Focus:** Data/Scientist
+Interested in collaborating on medical research or data-driven healthcare projects?  
+- **GitHub:** @ErickQ29  
+- **Focus:** Medical Research / Data Science  
 
-*"The orbit alternates irregularly between two symmetric lobes, never intersecting itself... a hallmark of deterministic chaos."*
+*"Transforming complex data into clinically actionable insight."*
