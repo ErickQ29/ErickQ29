@@ -4,7 +4,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2cyemRlbmx0d2RwYzc2enp0cjg5aG1kb2duM3A2YjN4ejU4MTV4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VPo7gdnsl4W9q9aOgP/giphy.gif" width="400px" alt="Researching Vibes">
 </p>
 
-### 🧠 Medical Researcher | Data Scientist | MRI Specialist
+### 🧠 Medical Researcher | Data Scientist | MRI Specialist 
 
 I am engaged in **medical research** and **data science**, with a particular emphasis on the analysis of medical imaging and the study of complex biological systems. My work combines rigorous analytical frameworks with advanced computational methodologies to derive clinically meaningful insights from high-dimensional data.
 
