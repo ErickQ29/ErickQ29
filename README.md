@@ -1,5 +1,5 @@
 # Hi there, I'm Erick 👋 
-    
+     
 <p align="centre">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2cyemRlbmx0d2RwYzc2enp0cjg5aG1kb2duM3A2YjN4ejU4MTV4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VPo7gdnsl4W9q9aOgP/giphy.gif" width="400px" alt="Researching Vibes">
 </p>
